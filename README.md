@@ -13,3 +13,5 @@ While the script is running, press Ctrl+C at any point.
 This triggers a trap that:
 - Compresses the current project folder into `attendance_tracker_<name>_archive.tar.gz`
 - Deletes the incomplete `attendance_tracker_<name>/` folder
+## link to Video & Logic Explanation  
+https://drive.google.com/file/d/11X8fCflS5q7xAU4JvpiyvlqzA_BrpsXz/view?usp=sharing
